@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+   background-color: #0f172a; /* brand-bg */
+  color: #f8fafc;            /* brand-text */
+}
